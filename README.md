@@ -1,4 +1,4 @@
-# TweetsSearchEngine
+# Tweets-Search-Engine
 Search for tweets which are semantic related with the query
 
 This search engine is particularly designed for tweets search because the techniques adopted here are desgined specially for tweets. The goal of the search engine is return tweets that are highly semantic related with the query.
